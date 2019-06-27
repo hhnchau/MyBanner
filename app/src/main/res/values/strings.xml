@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Banner</string>
+
+    <string name="string1">String1</string>
+    <string name="string2">String2</string>
+    <string name="string3">String3</string>
+</resources>
